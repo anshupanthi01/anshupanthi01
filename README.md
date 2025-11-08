@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟 Hey there! I'm Anshu Panthi 👋<br>I'm a data analyst enthusiast who loves turning raw data into meaningful insights! 📊✨ Whether it's uncovering trends, visualizing patterns, or diving into databases, I enjoy the magic of data storytelling.<br><br>💡 Passionate about:<br>🔹 Data Visualization 📈<br>🔹 SQL & Python for Data Analysis 🐍<br>🔹 Finding cool insights hidden in messy datasets 🔍<br><br>When I'm not crunching numbers, you’ll find me exploring tech, sipping tea☕, or learning something new! 🚀<br><br>Let’s connect and geek out over data! 💖
+🌟 Hey there! I'm Anshu Panthi 👋<br>I'm a data science enthusiast who loves turning raw data into meaningful insights! 📊✨ Whether it's uncovering trends, visualizing patterns, or diving into databases, I enjoy the magic of data storytelling.<br><br>💡 Passionate about:<br>🔹 Data Visualization 📈<br>🔹 SQL & Python for Data Analysis 🐍<br>🔹 Finding cool insights hidden in messy datasets 🔍<br><br>When I'm not crunching numbers, you’ll find me exploring tech, sipping tea☕, or learning something new! 🚀<br><br>Let’s connect and geek out over data! 💖
 
 
 # 💻 Tech Stack:
